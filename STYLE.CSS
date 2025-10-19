@@ -2,7 +2,7 @@
 font-family: 'ariel', sans-serif;
 line-height: 1.6;
 color: #333;
-background-image: url('1.jpg');
+background-image: url('images/1.jpg');
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -76,7 +76,7 @@ padding: 0 20px; /* Optional: Add some padding if needed */
 
     /* Hero Section */
     #hero {
-        background-image: url('caspe.jpg');
+        background-image: url('images/caspe.jpg');
         background-size: cover;
         background-position: center;
         color: #fff;
